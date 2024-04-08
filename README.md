@@ -81,7 +81,7 @@
 ###
 
 <div align="left">
-  <img height="" src="https://github.com/adilcodes/Simplified-JavaScript/blob/master/imgs/ways-to-create-a-variable-simplified-javascript-by-adil-sheikh.png?raw=true"  />
+  <img height="300" src="https://github.com/adilcodes/Simplified-JavaScript/blob/master/imgs/ways-to-create-a-variable-simplified-javascript-by-adil-sheikh.png?raw=true"  />
 </div>
 
 ###
@@ -91,7 +91,7 @@
 ###
 
 <div align="left">
-  <img height="" src="https://github.com/adilcodes/Simplified-JavaScript/blob/master/imgs/variable-differences-simplified-javascript-by-adil-sheikh.png?raw=true"  />
+  <img height="300" src="https://github.com/adilcodes/Simplified-JavaScript/blob/master/imgs/variable-differences-simplified-javascript-by-adil-sheikh.png?raw=true"  />
 </div>
 
 ###
